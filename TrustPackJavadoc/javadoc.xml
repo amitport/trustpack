@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="../lib/guice-3.0/guice-3.0.jar;../GraphPackCore/bin;../lib/jsr305-1.3.9.jar;../lib/guice-3.0/aopalliance.jar;../lib/guice-3.0/javax.inject.jar;../lib/guice-3.0/guice-assistedinject-3.0.jar;../lib/guava-10.0.1.jar" destdir="" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="graphpack.extensions.trustpack" source="1.6" sourcepath="../TrustPack/src" splitindex="true" use="true" version="true">
+            <link href="https://graphpack.googlecode.com/svn/trunk/GraphPackJavadoc/"/>
+        </javadoc>
+    </target>
+</project>
